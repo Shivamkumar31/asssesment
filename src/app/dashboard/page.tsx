@@ -9,10 +9,6 @@ import BarChart from "@/components/charts/BarChart";
 import LineChart from "@/components/charts/LineChart";
 import PieChart from "@/components/charts/PieChart";
 
-
-
-
-
 export default function DashboardPage() {
   const [year, setYear] = useState<keyof typeof salesData>("2024");
   const [chartType, setChartType] = useState<"bar" | "line" | "pie">("bar");

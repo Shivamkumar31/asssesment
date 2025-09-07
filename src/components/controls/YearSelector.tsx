@@ -1,5 +1,5 @@
 type YearSelectorProps = {
-  selectedYear: string;
+  selectedYear: "2022" | "2023" | "2024";
   onYearChange: (year: "2022" | "2023" | "2024") => void;
 };
 

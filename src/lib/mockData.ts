@@ -1,5 +1,5 @@
 export const salesData = {
-  2022: [
+  "2022": [
     { month: "Jan", sales: 120 },
     { month: "Feb", sales: 200 },
     { month: "Mar", sales: 150 },
@@ -13,7 +13,7 @@ export const salesData = {
     { month: "Nov", sales: 700 },
     { month: "Dec", sales: 800 },
   ],
-  2023: [
+  "2023": [
     { month: "Jan", sales: 100 },
     { month: "Feb", sales: 180 },
     { month: "Mar", sales: 160 },
@@ -27,7 +27,7 @@ export const salesData = {
     { month: "Nov", sales: 720 },
     { month: "Dec", sales: 850 },
   ],
-  2024: [
+  "2024": [
     { month: "Jan", sales: 130 },
     { month: "Feb", sales: 210 },
     { month: "Mar", sales: 170 },
