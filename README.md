@@ -53,7 +53,7 @@ dashboard-web-app/
 
 ## Example Pages
 
-* **Login / Authentication Page**
+
 * **Dashboard Overview** — metrics, KPIs, sales summary
 * **Analytics Page** — interactive graphs & trend analysis
 * **Reports Page** — downloadable/exportable data
@@ -104,7 +104,12 @@ The dashboard includes sample **sales analytics charts** such as:
 * Regional Sales Distribution
 * Customer Acquisition Trends
 
-*(Replace with screenshots or GIFs of your actual dashboard here)*
+<img width="1904" height="915" alt="image" src="https://github.com/user-attachments/assets/b24848ae-f4f7-4bbb-a460-9f72d9d9b64b" />
+<img width="1919" height="932" alt="image" src="https://github.com/user-attachments/assets/67b01aa3-f3c0-4f73-b485-f336151bfa29" />
+<img width="1909" height="974" alt="image" src="https://github.com/user-attachments/assets/7e5fb578-4a3e-4ab2-9475-70781f87be2b" />
+
+
+
 
 ---
 
